@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lngGa /holbertonschool-shell/basics /holbertonschool-shell /boot
+ls -lnar /boot /holbertonschool-shell /holbertonschool-shell/basics
