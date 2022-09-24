@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lant --time-style='+' /holbertonschool-shell/basics /holbertonschool-shell /boot
+ls -lat --time-style='+' /holbertonschool-shell/basics /holbertonschool-shell /boot
