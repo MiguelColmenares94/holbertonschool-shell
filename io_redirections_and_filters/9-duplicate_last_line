@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n1 -f iacta
+tail -n1f iacta
