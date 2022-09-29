@@ -1,2 +1,2 @@
 #!/bin/bash
-find -depth -empty | rev | cut -f 1 | rev | tr -d [.,/]
+find -depth -empty | rev | cut -d "/" -f 1 | rev
