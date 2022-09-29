@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l /etc/passwd | cut -d " " -f 1,2,3 --complement
+grep root /etc/passwd
