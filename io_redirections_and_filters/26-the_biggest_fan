@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -k7n | tr -s " " | cut -d " " -f 1,7
+sort -k7n | tr -s " " | cut -d " " -f 1 | head -n 11
